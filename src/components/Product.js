@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 
 export default class Product extends Component {
     render() {
+        // eslint-disable-next-line
         const { id, title, img, price, inCart} = this.props.product;
         return (
             <ProductWrapper className="col-9 mx-auto col-md-6 col-lg-3 my-3">
