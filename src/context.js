@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { storeProducts, detailProduct } from './data';
-// import Product from './components/Product';
 import './index.css';
 
 const ProductContext = React.createContext();

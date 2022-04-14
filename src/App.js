@@ -8,6 +8,7 @@ import Details from './components/Details';
 import Cart from './components/Cart';
 import Default from './components/Default';
 import Modal from "./components/Modal";
+import Contact from "./components/Contact";
 
 class App extends Component {
   render(){
@@ -16,6 +17,7 @@ class App extends Component {
         <Navbar/>
         <Routes>
           <Route exact path="/" element={<ProductList/>}></Route>
+          <Route exact path="/contact" element={<Contact/>}></Route>
           <Route exact path="/details" element={<Details/>}></Route>
           <Route exact path="/cart" element={<Cart/>}></Route>
           <Route path="*" element={<Default/>}></Route>
