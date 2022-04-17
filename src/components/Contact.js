@@ -29,7 +29,7 @@ export default class Contact extends Component {
                                 <img src={ "../img-contact/picture-2.jpg" } alt="Paul" style={{}} />
                                 <div className="container">
                                     <h2 className="name">Paul Badiu</h2>
-                                    <p className="title">Art Director</p>
+                                    <p className="title">CEO &amp; Founder</p>
                                     <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                                     <p>p.badiu03@yahoo.com</p>
                                 </div>
