@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { storeProducts, detailProduct } from './data';
+import { storeProducts, detailProduct } from './data2';
 import './index.css';
 
 const ProductContext = React.createContext();
