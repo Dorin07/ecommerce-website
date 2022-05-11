@@ -19,7 +19,7 @@ export default class Contact extends Component {
                                 <div className="container">
                                     <h2 className="name">Dorin Cuibus</h2>
                                     <p className="title"> CEO &amp; Founder</p>
-                                    <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                                    <p>Elev 12A Liceul Teoretic "Lucian Blaga"</p>
                                     <p>doriniosif03@yahoo.com</p>
                                 </div>
                             </div>
@@ -30,7 +30,7 @@ export default class Contact extends Component {
                                 <div className="container">
                                     <h2 className="name">Paul Badiu</h2>
                                     <p className="title">CEO &amp; Founder</p>
-                                    <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                                    <p>Elev 12A Liceul Teoretic "Lucian Blaga"</p>
                                     <p>p.badiu03@yahoo.com</p>
                                 </div>
                             </div>
